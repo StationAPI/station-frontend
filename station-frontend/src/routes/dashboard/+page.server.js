@@ -5,7 +5,7 @@ import { DOMAIN } from "$env/static/private";
 export async function load({ cookies }) {
   const user = cookies.get("station");
 
-  if (!user) throw redirect(302, `/login/github`);
+  if (!user) throw redirect(307, `https://${DOMAIN}/login/github`);
 
   return;
 }
