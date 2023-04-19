@@ -4,7 +4,7 @@
 
 <div
   class="navbar text-primary-content"
-  style="background: rgb(87,73,99);
+  style="background: rgb(87,73,99); font-family: 'Unica One';
 background: linear-gradient(90deg, rgba(87,73,99,1) 0%, rgba(105,75,129,1) 32%, rgba(128,69,180,1) 63%, rgba(132,24,227,1) 100%);"
 >
   <div class="flex-1">
@@ -63,6 +63,6 @@ background: linear-gradient(90deg, rgba(87,73,99,1) 0%, rgba(105,75,129,1) 32%, 
 
 <style>
   * {
-    font-family: "Unica One", Courier, monospace;
+    font-family: "Open Sans", Courier, monospace;
   }
 </style>
