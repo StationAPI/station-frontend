@@ -2,7 +2,11 @@
   import "../app.css";
 </script>
 
-<div class="navbar text-primary-content" style="background-color: #8570A8;">
+<div
+  class="navbar text-primary-content"
+  style="background: rgb(87,73,99);
+background: linear-gradient(90deg, rgba(87,73,99,1) 0%, rgba(105,75,129,1) 32%, rgba(128,69,180,1) 63%, rgba(132,24,227,1) 100%);"
+>
   <div class="flex-1">
     <a class="btn btn-ghost normal-case text-xl" href="/">Home</a>
   </div>
@@ -17,7 +21,8 @@
 
 <footer
   class="footer p-10 bg-base-200 text-base-content"
-  style="background-color: #8570A8;"
+  style="background: rgb(87,73,99);
+background: linear-gradient(90deg, rgba(87,73,99,1) 0%, rgba(105,75,129,1) 32%, rgba(128,69,180,1) 63%, rgba(132,24,227,1) 100%);"
 >
   <div>
     <svg
