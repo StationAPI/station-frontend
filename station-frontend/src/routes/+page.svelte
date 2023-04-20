@@ -26,7 +26,7 @@ background: linear-gradient(90deg, rgba(87,73,99,1) 0%, rgba(105,75,129,1) 32%, 
 </div>
 
 <div class="flex justify-center">
-	<div class="mockup-window border border-white white w-1/3 mt-10 mx-5 mb-10">
+	<div class="mockup-window border border-white white lg:w-1/3 mt-10 mx-5 mb-10">
 		<div class="text-white flex flex-col gap-10 justify-center px-4 py-16 border-t border-white">
 			<div class="stack">
 				<div class="text-center border border-white-content card lg:w-64 w-48 bg-purple-700">
