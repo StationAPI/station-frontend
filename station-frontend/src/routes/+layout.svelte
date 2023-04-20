@@ -4,8 +4,8 @@
 
 <div
   class="navbar text-primary-content"
-  style="background: rgb(87,73,99); font-family: 'Unica One';
-background: linear-gradient(90deg, rgba(87,73,99,1) 0%, rgba(105,75,129,1) 32%, rgba(128,69,180,1) 63%, rgba(132,24,227,1) 100%);"
+  style="background: rgb(76,29,149);
+background: linear-gradient(90deg, rgba(76,29,149,1) 0%, rgba(94,66,142,1) 38%, rgba(96,60,176,1) 63%, rgba(83,22,222,1) 100%); font-family: 'Unica One'"
 >
   <div class="flex-1">
     <a class="btn btn-ghost normal-case text-xl" href="/">Home</a>
@@ -21,8 +21,8 @@ background: linear-gradient(90deg, rgba(87,73,99,1) 0%, rgba(105,75,129,1) 32%, 
 
 <footer
   class="footer p-10 bg-base-200 text-base-content"
-  style="background: rgb(87,73,99);
-background: linear-gradient(90deg, rgba(87,73,99,1) 0%, rgba(105,75,129,1) 32%, rgba(128,69,180,1) 63%, rgba(132,24,227,1) 100%);"
+  style="background: rgb(76,29,149);
+background: linear-gradient(90deg, rgba(76,29,149,1) 0%, rgba(94,66,142,1) 38%, rgba(96,60,176,1) 63%, rgba(83,22,222,1) 100%);"
 >
   <div>
     <svg
