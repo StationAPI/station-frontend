@@ -25,6 +25,31 @@ background: linear-gradient(90deg, rgba(87,73,99,1) 0%, rgba(105,75,129,1) 32%, 
   </div>
 </div>
 
+<div class="flex justify-center">
+	<div class="mockup-window border border-white white w-1/3 mt-10 mx-5 mb-10">
+		<div class="text-white flex flex-col gap-10 justify-center px-4 py-16 border-t border-white">
+			<div class="stack">
+				<div class="text-center border border-white-content card lg:w-64 w-48 bg-purple-700">
+					<div class="card-body">
+						<div class="flex-col">
+							<span class="badge bg-purple-500 border-purple-500 text-white">Cloud</span>
+							<span class="badge bg-purple-500 border-purple-500 text-white">Kubernetes</span>
+							<span class="badge bg-purple-500 border-purple-500 text-white">Containers</span>
+						</div>
+					</div>
+				</div> 
+				<div class="text-center border border-white-content card lg:w-64 w-48 bg-purple-800">
+					<div class="card-body">B</div>
+				</div> 
+				<div class="text-center border border-white-content card lg:w-64 w-48 bg-purple-900">
+					<div class="card-body">C</div>
+				</div>
+			</div>
+			<p class="text-center font-bold">Browse New Websites That Match Filters You Choose</p>
+		</div>
+	</div>
+</div>
+
 <div
   class="hero min-h-min bg-base-200 mt-6"
   style="background: rgb(87,73,99);
@@ -41,7 +66,7 @@ background: linear-gradient(90deg, rgba(87,73,99,1) 0%, rgba(105,75,129,1) 32%, 
       <button
         class="btn btn-primary"
         style="background-color: #997CDA; border-color:#997CDA;"
-        >Start Sharing</button
+        >Upload Your Site</button
       >
     </div>
   </div>
