@@ -63,6 +63,6 @@ background: linear-gradient(90deg, rgba(76,29,149,1) 0%, rgba(94,66,142,1) 38%, 
 
 <style>
   * {
-    font-family: "Open Sans", Courier, monospace;
+    font-family: "Kanit", Courier, monospace;
   }
 </style>
