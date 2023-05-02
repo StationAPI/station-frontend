@@ -15,7 +15,9 @@
       <h2 class="card-title">Upload</h2>
       <p>Upload a new website</p>
       <div class="card-actions">
-        <button class="btn btn-primary"><a href="/dashboard/upload">Go There</a></button>
+        <button class="btn btn-primary"
+          ><a href="/dashboard/upload">Go There</a></button
+        >
       </div>
     </div>
   </div>
