@@ -3,7 +3,7 @@
 </script>
 
 <div class="my-10 flex justify-center flex-col lg:flex-row gap-3">
-  <div class="card w-96 bg-violet-900 shadow-xl">
+  <div class="card w-96 bg-slate-900 shadow-xl">
     <figure class="px-10 pt-10">
       <img
         src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
@@ -15,12 +15,12 @@
       <h2 class="card-title">Upload</h2>
       <p>Upload a new website</p>
       <div class="card-actions">
-        <button class="btn btn-primary">Go There</button>
+        <button class="btn btn-primary"><a href="/dashboard/upload">Go There</a></button>
       </div>
     </div>
   </div>
 
-  <div class="card w-96 bg-violet-900 shadow-xl">
+  <div class="card w-96 bg-slate-900 shadow-xl">
     <figure class="px-10 pt-10">
       <img
         src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
@@ -37,7 +37,7 @@
     </div>
   </div>
 
-  <div class="card w-96 bg-violet-900 shadow-xl">
+  <div class="card w-96 bg-slate-900 shadow-xl">
     <figure class="px-10 pt-10">
       <img src={analytics} alt="Analytics" class="rounded-xl" />
     </figure>
